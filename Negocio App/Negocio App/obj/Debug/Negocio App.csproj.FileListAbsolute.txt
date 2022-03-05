@@ -1,0 +1,18 @@
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\bin\Debug\Negocio App.exe.config
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\bin\Debug\Negocio App.exe
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\bin\Debug\Negocio App.pdb
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.csproj.AssemblyReference.cache
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.frmPendientes.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.frmPrincipal.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.frmProductos.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.Properties.Resources.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.csproj.GenerateResource.cache
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.csproj.CoreCompileInputs.cache
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.exe
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio App.pdb
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.InserPro.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.insertCli.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.frmFactura.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.Form1.resources
+C:\Users\Apolinar Rodríguez\source\repos\Negocio App\Negocio App\obj\Debug\Negocio_App.ALLFACT.resources
